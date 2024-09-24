@@ -28,7 +28,7 @@ export default {
         },
         editorUrl: {
             type: String,
-            default: 'https://cdn.ckeditor.com/4.25.0/full-all/ckeditor.js'
+            default: 'https://cdn.ckeditor.com/4.25.0-lts/full/ckeditor.js'
         },
         config: {
             type: Object,
